@@ -1,0 +1,130 @@
+{
+  "movies":[
+    {
+      "id": "1",
+      "title": "Hacksaw Ridge",
+      "image": "http://jonvilma.com/images/mel-gibson-hacksaw-ridge.jpg",
+      "link": "https://www.imdb.com/title/tt2119532/"
+    },
+    {
+      "id": "2",
+      "title": "Avengers Infinity War",
+      "image": "https://i.annihil.us/u/prod/marvel/movies/infinitywar/images/share.jpg",
+      "link": "https://www.imdb.com/title/tt4154756/"
+    },
+    {
+      "id": "3",
+      "title": "Mission Impossible Fallout",
+      "image": "https://i.ytimg.com/vi/wb49-oV0F78/maxresdefault.jpg",
+      "link": "https://www.imdb.com/title/tt4912910/"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "username": "Baron",
+      "email": "baron@gmail.com",
+      "password": "test123"
+    },
+    {
+      "id": "2",
+      "username": "Samson",
+      "email": "samson@gmail.com",
+      "password": "sam123"
+    },
+    {
+      "username": "kevin",
+      "email": "kevin@gmail.com",
+      "password": "halo123",
+      "id": "G72mlzV"
+    }
+  ],
+
+  "seatsA": [
+    {
+      "number": "A1",
+      "status": "available"
+    },
+    {
+      "number": "A2",
+      "status": "available"
+    },
+    {
+      "number": "A3",
+      "status": "available"
+    },
+    {
+      "number": "A4",
+      "status": "available"
+    },
+    {
+      "number": "A5",
+      "status": "available"
+    },
+    {
+      "number": "A6",
+      "status": "available"
+    },
+    {
+      "number": "A7",
+      "status": "available"
+    },
+    {
+      "number": "A8",
+      "status": "available"
+    },
+    {
+      "number": "A9",
+      "status": "available"
+    },
+    {
+      "number": "A10",
+      "status": "available"
+    }
+  ],
+
+  "seatsB": [
+    {
+      "number": "B1",
+      "status": "available"
+    },
+    {
+      "number": "B2",
+      "status": "available"
+    },
+    {
+      "number": "B3",
+      "status": "available"
+    },
+    {
+      "number": "B4",
+      "status": "available"
+    },
+    {
+      "number": "B5",
+      "status": "available"
+    },
+    {
+      "number": "B6",
+      "status": "available"
+    },
+    {
+      "number": "B7",
+      "status": "available"
+    },
+    {
+      "number": "B8",
+      "status": "available"
+    },
+    {
+      "number": "B9",
+      "status": "available"
+    },
+    {
+      "number": "B10",
+      "status": "available"
+    }
+  ]
+}
+      
